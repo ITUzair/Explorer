@@ -1,0 +1,139 @@
+#title {
+  background-color: #9ae17b;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+font-weight: bold;
+font-size: 3rem;
+line-height: 1.5;
+
+}
+p{
+  color: grey;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.picture1{
+  width: 380px;
+  padding-top: 5%;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%
+}
+
+.icon{
+  color: #9ae17b;
+  margin-bottom: 14px;
+}
+
+.icon:hover {
+  color: green;
+}
+
+#testimonials {
+
+  text-align: center;
+  background-color: #9ae17b;
+  color: white;
+}
+
+.testimonial{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin-top: 5%;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#press {
+ background-color: green;
+ text-align: center;
+ padding-top: 4%;
+ padding-bottom: 4%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 30px;
+}
+<--- Registration --->
+
+.myform{
+   position: relative;
+   display: -ms-flexbox;
+   display: flex;
+   padding: 1rem;
+   -ms-flex-direction: column;
+   flex-direction: column;
+   width: 100%;
+   pointer-events: auto;
+   background-color: #fff;
+   background-clip: padding-box;
+   border: 1px solid rgba(0,0,0,.2);
+   border-radius: 1.1rem;
+   outline: 0;
+   max-width: 500px;
+    }
+        .tx-tfm{
+        text-transform:uppercase;
+        }
+        .mybtn{
+        border-radius:50px;
+        }
+
+        .login-or {
+        position: relative;
+        color: #aaa;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        }
+        .span-or {
+        display: block;
+        position: absolute;
+        left: 50%;
+        top: -2px;
+        margin-left: -25px;
+        background-color: #fff;
+        width: 50px;
+        text-align: center;
+        }
+        .hr-or {
+        height: 1px;
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+        }
+        .google {
+        color:#666;
+        width:100%;
+        height:40px;
+        text-align:center;
+        outline:none;
+        border: 1px solid lightgrey;
+        }
+         form .error {
+        color: #ff0000;
+        }
+        #second{display:none;}
+
+#footer {
+  background-color: #9ae17b;
+}
